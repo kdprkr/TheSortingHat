@@ -1,6 +1,6 @@
 # TheSortingHat
 
-This repository houses materials used to create random groups of students for class. <br/>
+This repository houses materials used to create random groups of students and assign them a Hogwarts House. <br/>
 
 ## Overview
 `obsolete/` = contains older versions of R code <br/>
